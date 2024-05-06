@@ -1,0 +1,6 @@
+name: "web-scraping-crash-course"
+output_dir: "docs"
+exclude: ["website", "sources"]
+output:
+  html_document:
+    theme: flatly
