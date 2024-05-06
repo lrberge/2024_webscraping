@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+
+<head>
+  <style>
+    /* To increase the font size and change the font family */
+    /* + change the background color */
+    /* We apply this to the <body> tag */
+    body {
+      font-size: 15pt;
+      font-family: sans-serif;
+      background-color: linen;
+    }
+    /* We add a border radius and a box shadow to the <img> */
+    img {
+      border-radius: 6px;
+      box-shadow: 12px 12px 3px 2px rgba(0,0,255,0.3);
+    }
+    
+    .like {
+      color: forestGreen;
+    }
+    
+    .dislike {
+      color: crimson;
+    }
+    
+  </style>
+</head>
+
+<body>
+
+<!-- comment -->
+
+<h1> Laurent Berge's webpage</h1>
+
+<h4>Short presentation</h4>
+
+<p>Hi, I'm an associate prof of econ at U. Bordeaux</p>
+
+<h4>Stuff that I like:</h4>
+
+<ol class = "like">
+  <li>pizza</li>
+  <li>football</li>
+</ol>
+
+<h4>Stuff that I don't like:</h4>
+
+<ul class = "dislike">
+  <li>waiting in a line</li>
+  <li>anchoves!</li>
+</ul>
+
+<img src="images/grumpy.PNG">
+
+<br>
+
+<button type="button" id="btn"> Who is my favourite author?</button>
+
+<script>
+  let btn = document.querySelector("#btn");
+  showAuthor = function(){
+    let p = document.createElement("p");
+    p.innerHTML = "My favourite author is Shakespeare";
+    this.replaceWith(p);
+  }
+  btn.addEventListener("click", showAuthor);
+</script>
+
+</body>
