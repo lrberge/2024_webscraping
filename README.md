@@ -9,5 +9,5 @@ To publish online the websites we all created, have a look at [Netlify](https://
 
 Finally the small exercise with the Member of the European Parliament is in the file [webscraping.py](webscraping.py).
 
-I hope you enjoyed the class as much as I did and that you've got the key concepts of webscraping. Have fun now!
+I hope you enjoyed the class as much as I did. Have fun now!
 
