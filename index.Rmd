@@ -12,7 +12,6 @@ You can find the slides in [html](articles/2024_EconomIA_webscraping.html) or [p
 The webpage I/we created during the class is in the [website](https://github.com/lrberge/2024_webscraping/tree/main/website) folder (web page [here](website/index.html)). 
 To publish online the websites we all created, have a look at [Netlify](https://www.netlify.com/): you can publish a website by drag-and-dropping your folder in about 5s! (That's pretty impressive tbh.)
 
-Finally the small exercise with the Members of the European Parliament is in the file [webscraping.py](https://github.com/lrberge/2024_webscraping/tree/main/sources/webscraping.py).
+Finally the small exercise with the Members of the European Parliament is in the file [webscraping.py](https://github.com/lrberge/2024_webscraping/blob/main/sources/webscraping.py).
 
 I hope you enjoyed the class as much as I did. Have fun now!
-
