@@ -5,9 +5,7 @@ date: "2024-05-06"
 ---
 
 
-# Econom'IA 2024: Web scraping crash course
-
-Welcome to the repository of the crash course (3h) in web scraping.
+### Welcome to the repository of the crash course (3h) in web scraping.
 
 You can find the slides in [html](articles/2024_EconomIA_webscraping.html) or [pdf](articles/2024_EconomIA_webscraping.pdf).
 
