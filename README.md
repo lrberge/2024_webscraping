@@ -7,7 +7,7 @@ You can find the slides in [html](https://lrberge.github.io/2024_webscraping/art
 The webpage I/we created during the class is in the [website](website/) folder (web page [here](https://lrberge.github.io/2024_webscraping/website/index.html)). 
 To publish online the websites we all created, have a look at [Netlify](https://www.netlify.com/): you can publish a website by drag-and-dropping your folder in about 5s! (That's pretty impressive tbh.)
 
-Finally the small exercise with the Member of the European Parliamenent is in the file [webscraping.py](webscraping.py).
+Finally the small exercise with the Member of the European Parliament is in the file [webscraping.py](webscraping.py).
 
 I hope you enjoyed the class as much as I did and that you've got the key concepts. Have fun now!
 
